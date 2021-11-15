@@ -10,6 +10,7 @@ Requirements - Xampp
 How to install - 
 
 Download the repository in the htdocs folder of Xampp.
+
 In Xampp, start Apache and MySQL services.
 In the Xampp control panel, open phpMyAdmin and create a database.
 Import the url.sql file in the created database.
