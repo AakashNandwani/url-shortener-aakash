@@ -7,16 +7,22 @@ Technologies used - PHP, MySQL and Javascript
 
 Requirements - Xampp
 
+
 How to install - 
 
 Download the repository in the htdocs folder of Xampp.
 
 In Xampp, start Apache and MySQL services.
+
 In the Xampp control panel, open phpMyAdmin and create a database.
+
 Import the url.sql file in the created database.
+
 In the php/config.php file, enter your database credentials.
+
 Your website will be live on localhost/<project-folder-name>.
   
+
   
   NOTE - This project is live and you can try it out here - https://url-shortener-aakash.000webhostapp.com/
   
